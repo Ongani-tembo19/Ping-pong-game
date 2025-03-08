@@ -1,4 +1,4 @@
-# Ping-pong-game
+# Ping-pong-game.py
 import turtle as t
 # Initialize player scores
 player1score = 0
